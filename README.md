@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm passionate about software development and always looking for ways to grow. I specialize in full-stack development and recently started exploring game development as a hobby.<br><br>🚀 Currently Working On<br>Learning Verse and UEFN for game dev<br>Improving my portfolio site<br>🤝 Looking to Collaborate On<br>Web apps and game development projects<br>💬 Ask Me About<br>Building web apps with React and Node.js<br>Working with AI agents for task automation and creative projects<br>🌟 Fun Fact<br>I love fighting games! 🎮
+I'm passionate about software development and always looking for ways to grow. I specialize in full-stack development and recently started exploring game development as a hobby.<br><br>🚀 Currently Working On<br>Learning Verse and UEFN to create Fortnite maps and kickstart my game development journey!<br>Improving my portfolio site<br>🤝 Looking to Collaborate On<br>Web apps and game development projects<br>💬 Ask Me About<br>Building web apps with React and Node.js<br>Working with AI agents for task automation and creative projects<br>🌟 Fun Fact<br>I love fighting games! 🎮
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-hamza-/) 
